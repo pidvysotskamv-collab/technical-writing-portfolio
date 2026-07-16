@@ -1,4 +1,4 @@
-# Портфоліо Technical Writer
+# Technical Writing Portfolio
 
 Привіт! Мене звати **Марина Підвисоцька**.
 
