@@ -23,6 +23,6 @@
 3.	Спробуйте повторно надіслати листа з кодом
 
 ## Пов'язані інструкції:
-- Ствооення першої сторінки в Notion
-- Запрошення учасників до робочого простору
+- [Ствооення першої сторінки в Notion](stvorennya-pershoyi-storinky-v-notion.md)
+- [Запрошення учасників до робочого простору](zaproshennya-uchasnykiv-do-robochoho-prostoru-v-notion.md)
 
