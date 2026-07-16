@@ -35,6 +35,6 @@
 
 
 ## Пов'язані інструкції
-- Створення першої сторінки в Notion
-- Реєстрація облікового запису в Notion
+- [Створення першої сторінки в Notion](stvorennya-pershoyi-storinky-v-notion.md)
+- [Реєстрація облікового запису в Notion]( reyestratsiya-oblikovoho-zapysu-v-notion.md)
   
