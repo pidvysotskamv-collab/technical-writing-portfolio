@@ -1,26 +1,49 @@
-# Technical Writing Portfolio
+# Портфоліо Technical Writer
 
-Hi! I'm Maryna Pidvysotska.
+Привіт! Мене звати **Марина Підвисоцька**.
 
-Welcome to my Technical Writing portfolio.
+Ласкаво прошу до мого портфоліо технічної документації.
 
-This repository contains documentation samples created as part of my professional development in Technical Writing.
+У цьому репозиторії зібрані приклади документації, створені під час мого навчання професії **Technical Writer**.
 
-## Documents
+---
 
-- User Guides
-- Administrator Guides
-- API Documentation
-- Release Notes
+## 📄 Документація
 
-## Tools
+### 📘 Notion
+
+- [Реєстрація облікового запису](getting-started/reyestratsiya-oblikovoho-zapysu-v-notion.md)
+- [Створення першої сторінки](getting-started/stvorennya-pershoyi-storinky-v-notion.md)
+- [Запрошення учасників до робочого простору](getting-started/zaproshennya-uchasnykiv-do-robochogo-prostoru-v-notion.md)
+
+### 📗 GitHub
+
+> Документація буде додана найближчим часом.
+
+### 📙 Google Workspace
+
+> Документація буде додана найближчим часом.
+
+---
+
+## 🛠 Інструменти
 
 - Markdown
 - GitHub
-- Technical Writing
-- Knowledge Base Documentation
+- Notion
 
-## Status
+---
 
-🚧 Portfolio in progress.
-New documentation samples will be added regularly.
+## 📚 Навички
+
+- Створення користувацької документації
+- Написання покрокових інструкцій
+- Структурування технічної інформації
+- Оформлення документації в Markdown
+- Робота з GitHub
+
+---
+
+## 🚧 Статус
+
+Портфоліо активно поповнюється новими прикладами документації.
